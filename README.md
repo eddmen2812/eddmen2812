@@ -1,5 +1,5 @@
 # Saludos estimad@, Soy Edison Mendoza 👋
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;Bienvenid@!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenid@!;👋👋👋)
 
  ![GitHub Followers](https://img.shields.io/github/followers/eddmen2812?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/eddmen2812?style=social)
