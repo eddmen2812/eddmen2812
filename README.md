@@ -3,6 +3,20 @@
 
  ![GitHub Followers](https://img.shields.io/github/followers/eddmen2812?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/eddmen2812?style=social)
+
+<!------------------------------------------------------------------------>
+# 🌐 Redes Sociales
+<!------------------------------------------------------------------------>
+<!------------------------------------------------------------------------>
+<br>
+<div align="center">
+
+ [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/deed)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deed2812/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edison.mendoza@academia-ciberseguridad.com)](mailto:edison.mendoza@academia-ciberseguridad.com)
+</div>
+<!------------------------------------------------------------------------>
+
 # Sobre mi 🧑‍💻
 
 Soy una persona comunicativa, extrovertida y amable, con un historial demostrable y gran capacidad de gestión en entornos cambiantes.
@@ -37,18 +51,7 @@ Here are some ideas to get you started:
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eddmen2812&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddmen2812&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
-<!------------------------------------------------------------------------>
-# 🌐 Redes Sociales
-<!------------------------------------------------------------------------>
-<!------------------------------------------------------------------------>
-<br>
-<div align="center">
 
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deed2812/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edison.mendoza@academia-ciberseguridad.com)](mailto:edison.mendoza@academia-ciberseguridad.com)
-</div>
-<!------------------------------------------------------------------------>
 
 
 <!------------------------------------------------------------------------>
