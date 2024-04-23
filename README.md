@@ -19,14 +19,15 @@
 
 # Sobre mi 🧑‍💻
 
-Soy una persona comunicativa, extrovertida y amable, con un historial demostrable y gran capacidad de gestión en entornos cambiantes.
-Conozco herramientas de reconocimiento y enumeración (nmap, DNSRecon, Dirb, Sublist3r), también herramientas para la detección de vulnerabilidades (nmap, Metasploit, OpenVas) y en bypass (Bethercap, Yersinia, Ethercap, EIGRPWN).
+Soy proactivo, comunicativo, y amable. Me agrada el trabajo en equipo y me adapto a entornos cambiantes.
 
-Actualmente, estoy cursando una Maestría en Ciberseguridad en la Pontificia Universidad Católica del Ecuador, y también soy estudiante de la Academia de Ciberseguridad en México. Todo esto aportará a mejorar mis conocimientos sobre el hacking ético.
 
-Realizo prácticas, simulando entornos reales de penetración en plataformas como: TryhackMe & Hackthebox.
+Realizo laboratorios controlados, simulando entornos reales y poder prácticar las fases del hacking ético como: Reconocimiento | Escáneo | Explotación | Persistencia | Escalada de Privelegios y Borrado de Huellas, a tráves del Pivoting | Buffer-Overflow | Redes Wi-Fi | Forense. Y en línea uso plataformas como: HackTheBox & TryHackMe
 
-Encontraras varios proyectos que estarán a tu disposición, incluyendo el código fuente o archivos necesarios.
+
+Actualmente, estoy culminando mi Maestría en Ciberseguridad en la Pontificia Universidad Católica del Ecuador, además, también soy estudiante de la Academia de Ciberseguridad en México. Todo esto mejorára mis conocimientos sobre el HACKING ÉTICO.
+
+Además, encontrarás varios proyectos que estarán a tu disposición, incluyendo el código fuente o archivos necesarios.
 <!--
 **eddmen2812/eddmen2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
